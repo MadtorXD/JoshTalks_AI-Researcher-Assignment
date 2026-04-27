@@ -155,5 +155,5 @@ graph LR
     ```
 
 ---
-**Author:** Josh Talks Internship Applicant
+**Author:** Harsh Vardhan Tripathi  
 **Role:** AI Researcher (Speech & Audio)
