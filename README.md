@@ -127,7 +127,7 @@ graph LR
     D --> E[Adjusted WER Calculation]
 ```
 
-## 🏆 Why this project is Recruiter-Ready
+## 🚀 Key Technical Highlights
 *   **Production Code:** Modular Python scripts with CLI arguments and logging.
 *   **Advanced AI Theory:** Implementation of Confusion Networks for ASR evaluation.
 *   **Data Integrity:** Complete separation of proprietary data and source code.
