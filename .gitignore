@@ -1,0 +1,37 @@
+# 📂 Josh Talks Assignment - Git Ignore
+
+# --- Data & Outputs (Private/Sensitive) ---
+# Ignore all CSV and Excel results
+*.csv
+*.xlsx
+*.xls
+
+# Ignore original assignment PDF
+*.pdf
+
+# Ignore audio files and archives
+*.wav
+*.mp3
+*.zip
+disfluency_clips/
+
+# Ignore processed data folders
+data/
+temp/
+*.log
+
+# --- Model Weights & Large Files ---
+# Ignore the fine-tuned model directory (too large for GitHub)
+whisper-small-hindi/
+checkpoint-*/
+
+# --- Python Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+env/
+.vscode/
+.idea/
